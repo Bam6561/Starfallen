@@ -1,5 +1,7 @@
 {
   "resources": [
+    {"id":{"name":"MainShip_Spr","path":"sprites/MainShip_Spr/MainShip_Spr.yy",},"order":0,},
+    {"id":{"name":"MainShip","path":"objects/MainShip/MainShip.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
@@ -40,7 +42,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.4.580",
+    "IDEVersion": "2.3.4.583",
   },
   "resourceVersion": "1.4",
   "name": "WackTest",
