@@ -36,10 +36,9 @@ if y < 0
 	y = 0;
 }
 
-if (keyboard_check_pressed(vk_space))
-{
-    var inst_ID = instance_create_layer(x,y,"Instances",ShipBullet);
+// (keyboard_check_pressed(vk_space)){
+//  var inst_ID = instance_create_layer(x,y,"Instances",ShipBullet);
 	//instance_create_layer(x,y,"Instances_1",ShipBeam);
-	inst_ID.direction = 90;
+//inst_ID.direction = 90;
 	
-}
+//}

@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "ShipBullet_Spr",
-    "path": "sprites/ShipBullet_Spr/ShipBullet_Spr.yy",
+    "name": "bullet1",
+    "path": "sprites/bullet1/bullet1.yy",
   },
   "solid": false,
   "visible": true,
