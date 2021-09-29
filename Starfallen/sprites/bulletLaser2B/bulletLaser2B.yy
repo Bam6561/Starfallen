@@ -7,9 +7,9 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 1,
+  "bbox_left": 4,
   "bbox_right": 13,
-  "bbox_top": 1,
+  "bbox_top": 0,
   "bbox_bottom": 15,
   "HTile": false,
   "VTile": false,
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"a0ca1ada-9623-493d-8ab8-d041e61132ef","path":"sprites/bulletLaser2/bulletLaser2.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"a0ca1ada-9623-493d-8ab8-d041e61132ef","path":"sprites/bulletLaser2/bulletLaser2.yy",},"LayerId":{"name":"6a169da1-28f4-47a3-8514-fcbe976b2c2c","path":"sprites/bulletLaser2/bulletLaser2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"bulletLaser2","path":"sprites/bulletLaser2/bulletLaser2.yy",},"resourceVersion":"1.0","name":"a0ca1ada-9623-493d-8ab8-d041e61132ef","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"dc2ebf6d-c766-45a8-8372-3375f79b75b4","path":"sprites/bulletLaser2B/bulletLaser2B.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"dc2ebf6d-c766-45a8-8372-3375f79b75b4","path":"sprites/bulletLaser2B/bulletLaser2B.yy",},"LayerId":{"name":"e1874d12-87b2-4156-b48f-46fbd2a4200f","path":"sprites/bulletLaser2B/bulletLaser2B.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"bulletLaser2B","path":"sprites/bulletLaser2B/bulletLaser2B.yy",},"resourceVersion":"1.0","name":"dc2ebf6d-c766-45a8-8372-3375f79b75b4","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"bulletLaser2","path":"sprites/bulletLaser2/bulletLaser2.yy",},
+    "spriteId": {"name":"bulletLaser2B","path":"sprites/bulletLaser2B/bulletLaser2B.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"96fcc647-ebe6-4dc4-b717-5a2ef6877a1c","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a0ca1ada-9623-493d-8ab8-d041e61132ef","path":"sprites/bulletLaser2/bulletLaser2.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"c9a1be4e-9674-4541-ab93-6b7166cdd75f","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"dc2ebf6d-c766-45a8-8372-3375f79b75b4","path":"sprites/bulletLaser2B/bulletLaser2B.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,14 +58,14 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"bulletLaser2","path":"sprites/bulletLaser2/bulletLaser2.yy",},
+    "parent": {"name":"bulletLaser2B","path":"sprites/bulletLaser2B/bulletLaser2B.yy",},
     "resourceVersion": "1.3",
-    "name": "bulletLaser2",
+    "name": "bulletLaser2B",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"6a169da1-28f4-47a3-8514-fcbe976b2c2c","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"e1874d12-87b2-4156-b48f-46fbd2a4200f","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
@@ -73,7 +73,7 @@
     "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "bulletLaser2",
+  "name": "bulletLaser2B",
   "tags": [],
   "resourceType": "GMSprite",
 }
