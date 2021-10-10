@@ -1,9 +1,8 @@
 /// @description Movement
 // You can write your code in this editor
 
-chance = irandom_range(0, 359);
-x = 400;
-y = 70;
+//chance = irandom_range(0, 1);
+
 //horizontal collision
 if x + 16 > room_width 
 {
@@ -23,11 +22,14 @@ if x - 16 < 0
 //	y = yprevious;
 //}
 
-if (chance > 180)
-{
-	x = x + 8;	
-}
-else
-{
-	x = x - 8;	
-}
+//if (chance > 0)
+//{
+//	x = x + 8;	
+//}
+//else
+//{
+//	x = x - 8;	
+//}
+
+
+x += hsped; 

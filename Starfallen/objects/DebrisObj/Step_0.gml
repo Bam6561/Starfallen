@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Fade
 // You can write your code in this editor
 
 // image_alpha is the opaqueness of the image

@@ -1,4 +1,7 @@
 /// @description Set Enemy Alarm
 // You can write your code in this editor
 
-alarm[0] = 6;
+
+hsped = 8; 
+x = 350;
+alarm[1] = 12;

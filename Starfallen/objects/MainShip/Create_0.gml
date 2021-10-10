@@ -3,5 +3,5 @@
 
 
 //alarm[0] = room_speed * 3;
-alarm[0] = 6;
+alarm[0] = 60;
 

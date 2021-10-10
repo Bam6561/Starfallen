@@ -36,7 +36,7 @@ switch(room)
 	case Title:
 		draw_set_halign(fa_center);
 		//draw_text_transformed(room_width/2,250,"Running On Empty",3,3,0);
-		draw_text_transformed_color(room_width/2,250,"Running On Empty",3,3,0,c_lime, c_fuchsia, c_maroon, c_purple, 1);
+		draw_text_transformed_color(room_width/2,250,"STARFALLEN",3,3,0,c_lime, c_fuchsia, c_maroon, c_purple, 1);
 		//Alpha (the last req in the above reference, refers to opaqueness, with 1 being super opaque)
 		
 		draw_text(room_width/2, 350, @"Get 200 points to win!

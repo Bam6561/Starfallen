@@ -1,6 +1,6 @@
 /// @description Kill us
 // You can write your code in this editor
-score += 10;
+lives -= 1;
 instance_destroy();
 
 with(other)

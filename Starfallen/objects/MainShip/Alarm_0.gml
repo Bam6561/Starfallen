@@ -7,6 +7,6 @@ var inst_ID = instance_create_layer(x,y,"Instances",ShipBullet);
 	inst_ID.direction = 90;	
 	show_debug_message("baba bouey");
 	
-alarm[0] = 6;	
+alarm[0] = 60;	
 	
 	
