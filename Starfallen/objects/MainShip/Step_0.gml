@@ -22,18 +22,18 @@ if x+32 > room_width
 {
 	x = xprevious;
 }
-if x < 0 
+if x - 32 < 0 
 {
-	x = 0;
+	x = xprevious;
 }
 //vertical collision
 if y+32 > room_height 
 {
 	y = yprevious;
 }
-if y < 0 
+if y - 32 < 0 
 {
-	y = 0;
+	y = yprevious;
 }
 
 // (keyboard_check_pressed(vk_space)){
