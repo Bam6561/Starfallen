@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Enemy1_Spr",
-    "path": "sprites/Enemy1_Spr/Enemy1_Spr.yy",
+    "name": "Enemy2_Spr",
+    "path": "sprites/Enemy2_Spr/Enemy2_Spr.yy",
   },
   "solid": false,
   "visible": true,
@@ -33,7 +33,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Enemy1Obj",
+  "name": "Enemy2Obj",
   "tags": [],
   "resourceType": "GMObject",
 }
