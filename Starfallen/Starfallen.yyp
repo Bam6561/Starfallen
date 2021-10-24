@@ -1,6 +1,7 @@
 {
   "resources": [
     {"id":{"name":"bullet12","path":"sprites/bullet12/bullet12.yy",},"order":12,},
+    {"id":{"name":"Bomb2","path":"sprites/Bomb2/Bomb2.yy",},"order":28,},
     {"id":{"name":"ShipBullet_Spr","path":"sprites/ShipBullet_Spr/ShipBullet_Spr.yy",},"order":1,},
     {"id":{"name":"DebrisObj","path":"objects/DebrisObj/DebrisObj.yy",},"order":5,},
     {"id":{"name":"bullet7","path":"sprites/bullet7/bullet7.yy",},"order":5,},
@@ -10,12 +11,14 @@
     {"id":{"name":"bullet13","path":"sprites/bullet13/bullet13.yy",},"order":13,},
     {"id":{"name":"bullet4","path":"sprites/bullet4/bullet4.yy",},"order":11,},
     {"id":{"name":"bullet6","path":"sprites/bullet6/bullet6.yy",},"order":4,},
+    {"id":{"name":"BombExplosionObj","path":"objects/BombExplosionObj/BombExplosionObj.yy",},"order":8,},
     {"id":{"name":"bullet14","path":"sprites/bullet14/bullet14.yy",},"order":14,},
     {"id":{"name":"bulletLaser2B","path":"sprites/bulletLaser2B/bulletLaser2B.yy",},"order":23,},
     {"id":{"name":"bulletLaser3A","path":"sprites/bulletLaser3A/bulletLaser3A.yy",},"order":22,},
     {"id":{"name":"GameEditorObj","path":"objects/GameEditorObj/GameEditorObj.yy",},"order":2,},
     {"id":{"name":"MainShip","path":"objects/MainShip/MainShip.yy",},"order":0,},
     {"id":{"name":"Enemy1_Spr","path":"sprites/Enemy1_Spr/Enemy1_Spr.yy",},"order":26,},
+    {"id":{"name":"BombObj","path":"objects/BombObj/BombObj.yy",},"order":7,},
     {"id":{"name":"Enemy1Obj","path":"objects/Enemy1Obj/Enemy1Obj.yy",},"order":3,},
     {"id":{"name":"bomb","path":"sprites/bomb/bomb.yy",},"order":21,},
     {"id":{"name":"bullet2","path":"sprites/bullet2/bullet2.yy",},"order":9,},
