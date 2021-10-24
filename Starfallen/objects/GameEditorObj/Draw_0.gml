@@ -41,7 +41,7 @@ switch(room)
 		
 		draw_text(room_width/2, 350, @"Get 200 points to win!
 									 WASD to move!
-									 SPACE to shoot!
+									 SPACE to shoot a bomb, c to blow it up!
 									 >> PRESS ENTER TO PLAY <<
 									 "
 		);
