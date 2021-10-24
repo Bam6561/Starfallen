@@ -23,6 +23,7 @@
     {"id":{"name":"bullet10","path":"sprites/bullet10/bullet10.yy",},"order":8,},
     {"id":{"name":"bullet5","path":"sprites/bullet5/bullet5.yy",},"order":3,},
     {"id":{"name":"bulletLaser3B","path":"sprites/bulletLaser3B/bulletLaser3B.yy",},"order":24,},
+    {"id":{"name":"Enemy_2","path":"objects/Enemy_2/Enemy_2.yy",},"order":6,},
     {"id":{"name":"bulletLaser1B","path":"sprites/bulletLaser1B/bulletLaser1B.yy",},"order":17,},
     {"id":{"name":"bulletLaser1A","path":"sprites/bulletLaser1A/bulletLaser1A.yy",},"order":20,},
     {"id":{"name":"bullet9","path":"sprites/bullet9/bullet9.yy",},"order":7,},
@@ -81,7 +82,7 @@
     "IDEVersion": "2.3.4.583",
   },
   "resourceVersion": "1.4",
-  "name": "WackTest",
+  "name": "Starfallen",
   "tags": [],
   "resourceType": "GMProject",
 }
