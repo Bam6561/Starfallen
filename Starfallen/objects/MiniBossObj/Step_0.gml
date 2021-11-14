@@ -39,19 +39,15 @@ else if (direction1 == 3)
 {
 	y = y - 4;
 }
-//if (chance > 0)
-//{
-//	x = x + 8;	
-//}
-//else
-//{
-//	x = x - 8;	
-//}
 
-//direction1++;
-//if(direction1 > 3)
-//{
-//	direction1 = 0;	
-//}
 
-//x += hsped; 
+if(bossHP < 1)
+{
+		//score += 50;
+		instance_destroy(self);	
+	
+		repeat(15)
+		{
+			instance_create_layer(x,y,"Instances",DebrisObj);
+		}
+}
