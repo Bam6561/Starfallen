@@ -33,6 +33,7 @@
     {"id":{"name":"Enemy_2","path":"objects/Enemy_2/Enemy_2.yy",},"order":6,},
     {"id":{"name":"bulletLaser1B","path":"sprites/bulletLaser1B/bulletLaser1B.yy",},"order":17,},
     {"id":{"name":"bulletLaser1A","path":"sprites/bulletLaser1A/bulletLaser1A.yy",},"order":20,},
+    {"id":{"name":"Multi_upgrade","path":"objects/Multi_upgrade/Multi_upgrade.yy",},"order":13,},
     {"id":{"name":"bullet9","path":"sprites/bullet9/bullet9.yy",},"order":7,},
     {"id":{"name":"Win","path":"rooms/Win/Win.yy",},"order":3,},
     {"id":{"name":"Lose","path":"rooms/Lose/Lose.yy",},"order":2,},

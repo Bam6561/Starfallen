@@ -3,5 +3,6 @@
 
 
 //alarm[0] = room_speed * 3;
+upgrade = "none";
 alarm[0] = 60;
 
