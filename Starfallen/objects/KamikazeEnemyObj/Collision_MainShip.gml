@@ -6,10 +6,18 @@ instance_destroy();
 
 with(other)
 {
-	instance_destroy();	
-	
-	repeat(15)
+	if(lives > 0)
 	{
-		instance_create_layer(x,y,"Instances",DebrisObj);
+		//hitPain = 60;
+		flash = true;
+	}
+	else
+	{
+		instance_destroy();	
+	 
+		repeat(15)
+		{
+			instance_create_layer(x,y,"Instances",DebrisObj);
+		}
 	}
 }

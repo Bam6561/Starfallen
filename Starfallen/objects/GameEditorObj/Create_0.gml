@@ -2,5 +2,5 @@
 // You can write your code in this editor
 
 score = 190;
-lives = 1;
+lives = 3;
 

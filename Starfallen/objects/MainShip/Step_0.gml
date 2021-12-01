@@ -43,3 +43,26 @@ if (keyboard_check_pressed(vk_space))
   //inst_ID.direction = 90;
 	
 }
+
+if(hitPain > 0)
+{
+	if(image_alpha == .5)
+	{
+		image_alpha = 1;	
+	}
+	else
+	{
+		image_alpha = .5;
+		hitPain--;
+	}
+}
+else
+{
+	image_alpha = 1;	
+}
+
+if(flash == true)
+{
+alarm[1] = 1;
+alarm[3] = 70;
+}

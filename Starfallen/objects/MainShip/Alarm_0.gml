@@ -9,4 +9,7 @@ var inst_ID = instance_create_layer(x,y,"Instances",ShipBullet);
 	
 alarm[0] = 60;	
 	
-	
+/*if(amDead = true)
+{
+	instance_create_layer(349, 356,"Instances", MainShip); 	
+}*/

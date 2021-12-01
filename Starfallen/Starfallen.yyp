@@ -14,6 +14,7 @@
     {"id":{"name":"bullet6","path":"sprites/bullet6/bullet6.yy",},"order":4,},
     {"id":{"name":"BombExplosionObj","path":"objects/BombExplosionObj/BombExplosionObj.yy",},"order":8,},
     {"id":{"name":"Sprite28","path":"sprites/Sprite28/Sprite28.yy",},"order":15,},
+    {"id":{"name":"mini_boss_path","path":"paths/mini_boss_path/mini_boss_path.yy",},"order":0,},
     {"id":{"name":"bullet14","path":"sprites/bullet14/bullet14.yy",},"order":14,},
     {"id":{"name":"bulletLaser2B","path":"sprites/bulletLaser2B/bulletLaser2B.yy",},"order":23,},
     {"id":{"name":"bulletLaser3A","path":"sprites/bulletLaser3A/bulletLaser3A.yy",},"order":22,},
