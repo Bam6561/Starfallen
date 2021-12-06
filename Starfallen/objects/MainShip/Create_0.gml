@@ -6,3 +6,5 @@
 upgrade = "none";
 alarm[0] = 60;
 
+hitPain = 0; 
+flash = false;

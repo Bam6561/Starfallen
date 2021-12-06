@@ -25,4 +25,7 @@ else if(MainShip.upgrade == "rapid"){
 	
 
 	
-	
+/*if(amDead = true)
+{
+	instance_create_layer(349, 356,"Instances", MainShip); 	
+}*/

@@ -22,7 +22,7 @@ if y - 32 < 0
 	y = yprevious;
 }
 
-if (direction1 == 0)
+/*if (direction1 == 0)
 {
 	x = x + 4;	
 }
@@ -38,14 +38,15 @@ else if (direction1 == 2)
 else if (direction1 == 3)
 {
 	y = y - 4;
-}
+}*/
 
 
 if(bossHP < 1)
 {
 		//score += 50;
 		instance_destroy(self);	
-	
+		instance_create_layer(160, 60,"Instances", KamikazeEnemyObj);
+		instance_create_layer(570, 60,"Instances", KamikazeEnemyObj);
 		repeat(15)
 		{
 			instance_create_layer(x,y,"Instances",DebrisObj);
