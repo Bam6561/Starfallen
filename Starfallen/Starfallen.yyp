@@ -16,6 +16,8 @@
     {"id":{"name":"Sprite28","path":"sprites/Sprite28/Sprite28.yy",},"order":15,},
     {"id":{"name":"mini_boss_path","path":"paths/mini_boss_path/mini_boss_path.yy",},"order":0,},
     {"id":{"name":"bullet14","path":"sprites/bullet14/bullet14.yy",},"order":14,},
+    {"id":{"name":"MainShipShield2_Spr","path":"sprites/MainShipShield2_Spr/MainShipShield2_Spr.yy",},"order":30,},
+    {"id":{"name":"Shield_upgrade","path":"objects/Shield_upgrade/Shield_upgrade.yy",},"order":15,},
     {"id":{"name":"bulletLaser2B","path":"sprites/bulletLaser2B/bulletLaser2B.yy",},"order":23,},
     {"id":{"name":"bulletLaser3A","path":"sprites/bulletLaser3A/bulletLaser3A.yy",},"order":22,},
     {"id":{"name":"KamikazeEnemyObj","path":"objects/KamikazeEnemyObj/KamikazeEnemyObj.yy",},"order":9,},
@@ -92,7 +94,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.4.583",
+    "IDEVersion": "2.3.7.603",
   },
   "resourceVersion": "1.4",
   "name": "Starfallen",

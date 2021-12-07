@@ -4,6 +4,8 @@
 
 //alarm[0] = room_speed * 3;
 upgrade = "none";
+shield = "none";
+
 alarm[0] = 60;
 
 hitPain = 0; 

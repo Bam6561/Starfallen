@@ -7,10 +7,10 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 3,
-  "bbox_right": 29,
-  "bbox_top": 3,
-  "bbox_bottom": 30,
+  "bbox_left": 2,
+  "bbox_right": 30,
+  "bbox_top": 1,
+  "bbox_bottom": 31,
   "HTile": false,
   "VTile": false,
   "For3D": false,
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"7c4129d2-621d-43e6-bd9f-b9b9ae936ff2","path":"sprites/MainShip_Spr/MainShip_Spr.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"7c4129d2-621d-43e6-bd9f-b9b9ae936ff2","path":"sprites/MainShip_Spr/MainShip_Spr.yy",},"LayerId":{"name":"faf0dd81-8087-4a35-a3bf-62c399a1dd75","path":"sprites/MainShip_Spr/MainShip_Spr.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"MainShip_Spr","path":"sprites/MainShip_Spr/MainShip_Spr.yy",},"resourceVersion":"1.0","name":"7c4129d2-621d-43e6-bd9f-b9b9ae936ff2","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"7c4129d2-621d-43e6-bd9f-b9b9ae936ff2","path":"sprites/MainShipShield2_Spr/MainShipShield2_Spr.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"7c4129d2-621d-43e6-bd9f-b9b9ae936ff2","path":"sprites/MainShipShield2_Spr/MainShipShield2_Spr.yy",},"LayerId":{"name":"faf0dd81-8087-4a35-a3bf-62c399a1dd75","path":"sprites/MainShipShield2_Spr/MainShipShield2_Spr.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"MainShipShield2_Spr","path":"sprites/MainShipShield2_Spr/MainShipShield2_Spr.yy",},"resourceVersion":"1.0","name":"7c4129d2-621d-43e6-bd9f-b9b9ae936ff2","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"MainShip_Spr","path":"sprites/MainShip_Spr/MainShip_Spr.yy",},
+    "spriteId": {"name":"MainShipShield2_Spr","path":"sprites/MainShipShield2_Spr/MainShipShield2_Spr.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 60.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"dadc868a-c3ae-4b0d-be35-712d0faaa5bd","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7c4129d2-621d-43e6-bd9f-b9b9ae936ff2","path":"sprites/MainShip_Spr/MainShip_Spr.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"25f14e2d-922c-430d-ac8a-39cb21ae9038","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7c4129d2-621d-43e6-bd9f-b9b9ae936ff2","path":"sprites/MainShipShield2_Spr/MainShipShield2_Spr.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -58,9 +58,9 @@
     "yorigin": 10,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"MainShip_Spr","path":"sprites/MainShip_Spr/MainShip_Spr.yy",},
+    "parent": {"name":"MainShipShield2_Spr","path":"sprites/MainShipShield2_Spr/MainShipShield2_Spr.yy",},
     "resourceVersion": "1.3",
-    "name": "MainShip_Spr",
+    "name": "MainShipShield2_Spr",
     "tags": [],
     "resourceType": "GMSequence",
   },
@@ -97,7 +97,7 @@
     "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "MainShip_Spr",
+  "name": "MainShipShield2_Spr",
   "tags": [],
   "resourceType": "GMSprite",
 }

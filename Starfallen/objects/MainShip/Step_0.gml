@@ -44,6 +44,10 @@ if (keyboard_check_pressed(vk_space))
 	
 }
 
+if(MainShip.shield == "shield"){
+sprite_index = MainShipShield2_Spr;
+}
+
 if(hitPain > 0)
 {
 	if(image_alpha == .5)

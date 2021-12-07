@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "bulletLaser1A",
-    "path": "sprites/bulletLaser1A/bulletLaser1A.yy",
+    "name": "bullet2",
+    "path": "sprites/bullet2/bullet2.yy",
   },
   "solid": false,
   "visible": true,
@@ -30,7 +30,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Rapid_upgrade",
+  "name": "Shield_upgrade",
   "tags": [],
   "resourceType": "GMObject",
 }

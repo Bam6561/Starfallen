@@ -1,5 +1,6 @@
 /// @description Kill us
 // You can write your code in this editor
+if(MainShip.shield == "none"){
 lives -= 1;
 instance_destroy();
 instance_create_layer(0, 0,"Instances", WaitObj);
@@ -11,4 +12,11 @@ with(other)
 	{
 		instance_create_layer(x,y,"Instances",DebrisObj);
 	}
+}
+
+}
+else{
+instance_destroy(EnemyBullet);
+MainShip.shield = "none";
+MainShip.sprite_index = MainShip_Spr;
 }
