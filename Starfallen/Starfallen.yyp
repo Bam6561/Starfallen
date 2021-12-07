@@ -49,6 +49,7 @@
     {"id":{"name":"WaitObj","path":"objects/WaitObj/WaitObj.yy",},"order":12,},
     {"id":{"name":"MiniBossObj","path":"objects/MiniBossObj/MiniBossObj.yy",},"order":10,},
     {"id":{"name":"Title","path":"rooms/Title/Title.yy",},"order":1,},
+    {"id":{"name":"Bomb","path":"sounds/Bomb/Bomb.yy",},"order":2,},
     {"id":{"name":"bullet3","path":"sprites/bullet3/bullet3.yy",},"order":10,},
     {"id":{"name":"bullet11","path":"sprites/bullet11/bullet11.yy",},"order":16,},
     {"id":{"name":"bulletLaser2A","path":"sprites/bulletLaser2A/bulletLaser2A.yy",},"order":25,},
