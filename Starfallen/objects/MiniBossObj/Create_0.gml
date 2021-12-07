@@ -1,7 +1,7 @@
 /// @description Set Enemy Alarm
 // You can write your code in this editor
 
-bossHP = 2;
+bossHP = 4;
 direction1 = 0;
 hsped = 8; 
 

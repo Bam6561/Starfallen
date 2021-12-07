@@ -22,28 +22,11 @@ if y - 32 < 0
 	y = yprevious;
 }
 
-/*if (direction1 == 0)
-{
-	x = x + 4;	
-}
-else if (direction1 == 1)
-{
-	y = y + 4;	
-}
-else if (direction1 == 2)
-{
-	x = x - 4;	
-}
-
-else if (direction1 == 3)
-{
-	y = y - 4;
-}*/
 
 
-if(bossHP < 1)
+if(trueBossHP < 1)
 {
-		score += 50;
+		score += 1000;
 		audio_play_sound(Explode, 1, false);
 		instance_destroy(self);	
 		instance_create_layer(160, 60,"Instances", KamikazeEnemyObj);
