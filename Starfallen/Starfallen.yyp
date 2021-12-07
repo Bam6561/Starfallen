@@ -3,6 +3,7 @@
     {"id":{"name":"bullet12","path":"sprites/bullet12/bullet12.yy",},"order":12,},
     {"id":{"name":"Bomb2","path":"sprites/Bomb2/Bomb2.yy",},"order":28,},
     {"id":{"name":"ShipBullet_Spr","path":"sprites/ShipBullet_Spr/ShipBullet_Spr.yy",},"order":1,},
+    {"id":{"name":"pauseObj","path":"objects/pauseObj/pauseObj.yy",},"order":16,},
     {"id":{"name":"DebrisObj","path":"objects/DebrisObj/DebrisObj.yy",},"order":5,},
     {"id":{"name":"bullet7","path":"sprites/bullet7/bullet7.yy",},"order":5,},
     {"id":{"name":"ShipBullet","path":"objects/ShipBullet/ShipBullet.yy",},"order":1,},
