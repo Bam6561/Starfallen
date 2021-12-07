@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Increase bullet number
 // You can write your code in this editor
 MainShip.upgrade = "multi";
 MainShip.alarm[1] = 240;

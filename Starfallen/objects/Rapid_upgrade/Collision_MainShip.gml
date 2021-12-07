@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Increase Bullet Rate
 // You can write your code in this editor
 MainShip.upgrade = "rapid";
 MainShip.alarm[1] = 240;

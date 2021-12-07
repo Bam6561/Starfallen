@@ -1,7 +1,7 @@
 /// @description Damage
 // You can write your code in this editor
 
-score += 10;
+score += 20;
 instance_destroy();
 
 with(other)
