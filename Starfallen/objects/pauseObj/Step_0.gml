@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Constant Check for Pressed Key
 // You can write your code in this editor
 if(keyboard_check_pressed(ord("P"))){
   paused = !paused;

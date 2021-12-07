@@ -26,7 +26,7 @@ if(keyboard_check_pressed(vk_enter))
 if (room == GameRoom)
 {
 	
-	if(score >= 200)
+	if(score >= 2000)
 	{
 		room_goto(Win);	
 	}
