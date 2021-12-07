@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"bullet12","path":"sprites/bullet12/bullet12.yy",},"order":12,},
     {"id":{"name":"Bomb2","path":"sprites/Bomb2/Bomb2.yy",},"order":28,},
+    {"id":{"name":"BulletShoot","path":"sounds/BulletShoot/BulletShoot.yy",},"order":0,},
     {"id":{"name":"ShipBullet_Spr","path":"sprites/ShipBullet_Spr/ShipBullet_Spr.yy",},"order":1,},
     {"id":{"name":"pauseObj","path":"objects/pauseObj/pauseObj.yy",},"order":16,},
     {"id":{"name":"DebrisObj","path":"objects/DebrisObj/DebrisObj.yy",},"order":5,},
@@ -14,7 +15,6 @@
     {"id":{"name":"BossBullet2","path":"objects/BossBullet2/BossBullet2.yy",},"order":11,},
     {"id":{"name":"bullet6","path":"sprites/bullet6/bullet6.yy",},"order":4,},
     {"id":{"name":"BombExplosionObj","path":"objects/BombExplosionObj/BombExplosionObj.yy",},"order":8,},
-    {"id":{"name":"Sprite28","path":"sprites/Sprite28/Sprite28.yy",},"order":15,},
     {"id":{"name":"mini_boss_path","path":"paths/mini_boss_path/mini_boss_path.yy",},"order":0,},
     {"id":{"name":"bullet14","path":"sprites/bullet14/bullet14.yy",},"order":14,},
     {"id":{"name":"MainShipShield2_Spr","path":"sprites/MainShipShield2_Spr/MainShipShield2_Spr.yy",},"order":30,},
