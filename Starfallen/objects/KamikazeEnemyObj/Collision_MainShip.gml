@@ -3,21 +3,14 @@
 
 lives -= 1;
 instance_destroy();
+instance_create_layer(0, 0,"Instances", WaitObj);
 
 with(other)
 {
-	if(lives > 0)
-	{
-		//hitPain = 60;
-		flash = true;
-	}
-	else
-	{
-		instance_destroy();	
+	instance_destroy();	
 	 
-		repeat(15)
-		{
+	repeat(15)
+	{
 			instance_create_layer(x,y,"Instances",DebrisObj);
-		}
 	}
 }

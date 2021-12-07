@@ -7,3 +7,5 @@ alarm[0] = 60;
 
 hitPain = 0; 
 flash = false;
+
+//hit = false;

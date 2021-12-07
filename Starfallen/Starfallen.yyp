@@ -39,6 +39,7 @@
     {"id":{"name":"bullet1","path":"sprites/bullet1/bullet1.yy",},"order":2,},
     {"id":{"name":"bullet15","path":"sprites/bullet15/bullet15.yy",},"order":15,},
     {"id":{"name":"bullet8","path":"sprites/bullet8/bullet8.yy",},"order":6,},
+    {"id":{"name":"WaitObj","path":"objects/WaitObj/WaitObj.yy",},"order":12,},
     {"id":{"name":"MiniBossObj","path":"objects/MiniBossObj/MiniBossObj.yy",},"order":10,},
     {"id":{"name":"Title","path":"rooms/Title/Title.yy",},"order":1,},
     {"id":{"name":"bullet3","path":"sprites/bullet3/bullet3.yy",},"order":10,},
