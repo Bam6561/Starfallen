@@ -3,6 +3,7 @@
 
 score += 10;
 instance_destroy();
+audio_play_sound(Explode, 1, false);
 
 with(other)
 {

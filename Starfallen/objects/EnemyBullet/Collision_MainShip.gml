@@ -3,6 +3,7 @@
 if(MainShip.shield == "none"){
 lives -= 1;
 instance_destroy();
+audio_play_sound(Explode, 1, false);
 instance_create_layer(0, 0,"Instances", WaitObj);
 
 with(other)
