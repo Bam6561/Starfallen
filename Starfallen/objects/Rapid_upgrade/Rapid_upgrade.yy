@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "bulletLaser1A",
-    "path": "sprites/bulletLaser1A/bulletLaser1A.yy",
+    "name": "RapidFire",
+    "path": "sprites/RapidFire/RapidFire.yy",
   },
   "solid": false,
   "visible": true,

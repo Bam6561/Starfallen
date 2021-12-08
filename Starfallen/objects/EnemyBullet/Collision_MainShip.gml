@@ -19,5 +19,5 @@ with(other)
 else{
 instance_destroy(EnemyBullet);
 MainShip.shield = "none";
-MainShip.sprite_index = MainShip_Spr;
+MainShip.sprite_index = Ship;
 }
