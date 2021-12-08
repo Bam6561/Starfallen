@@ -1,7 +1,7 @@
 /// @description Create bullet repeatedly
 // You can write your code in this editor
 
-var shotTime = 60;
+var shotTime = 40;
 
 if(MainShip.upgrade == "none"){
 var inst_ID = instance_create_layer(x,y,"Instances",ShipBullet);
