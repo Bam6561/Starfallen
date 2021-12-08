@@ -3,6 +3,7 @@
 
 score = 0;
 lives = 3;
+audio_play_sound(TitleMusic, 1, true);
 
 
 

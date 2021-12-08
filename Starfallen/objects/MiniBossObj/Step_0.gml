@@ -43,7 +43,7 @@ else if (direction1 == 3)
 
 if(bossHP < 1)
 {
-		score += 50;
+		score += 2000;
 		audio_play_sound(Explode, 1, false);
 		instance_destroy(self);	
 		instance_create_layer(160, 60,"Instances", KamikazeEnemyObj);
