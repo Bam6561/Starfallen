@@ -26,7 +26,7 @@ if y - 32 < 0
 
 if(trueBossHP < 1)
 {
-		score += 1000;
+		score += 2000;
 		audio_play_sound(Explode, 1, false);
 		instance_destroy(self);	
 		instance_create_layer(160, 60,"Instances", KamikazeEnemyObj);
