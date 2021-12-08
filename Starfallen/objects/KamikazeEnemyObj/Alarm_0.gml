@@ -1,7 +1,7 @@
 /// @description Wait 3 seconds, then go down screen
 // You can write your code in this editor
 
-if(y < 750)
+if(y < 1280)
 {
 	y = y + 16;
 }
