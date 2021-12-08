@@ -2,7 +2,7 @@
 // You can write your code in this editor
 
 //trueBossDamage = 0;
-trueBossHP = 10;
+trueBossHP = 30;
 //direction1 = 0;
 //hsped = 8; 
 

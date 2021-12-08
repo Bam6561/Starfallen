@@ -1,18 +1,18 @@
 /// @description Movement.
 // You can write your code in this editor
-if keyboard_check(vk_left)
+if keyboard_check(ord("A"))
 {
     x = x - 8;
 }
-if keyboard_check(vk_right)
+if keyboard_check(ord("D"))
 {
     x = x + 8;
 }
-if keyboard_check(vk_up)
+if keyboard_check(ord("W"))
 {
     y = y - 8;
 }
-if keyboard_check(vk_down)
+if keyboard_check(ord("S"))
 {
     y = y + 8;
 }

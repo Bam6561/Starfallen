@@ -4,4 +4,3 @@ MainShip.upgrade = "multi";
 MainShip.alarm[1] = 240;
 instance_destroy();
 
-alarm[0] = 300;

@@ -13,6 +13,9 @@ with(other)
 	} else {
 		audio_play_sound(Hit3, 1, false);
 	}
-	image_alpha = image_alpha - .02;
+	if(image_alpha > .5)
+	{
+		image_alpha = image_alpha - .02;
+	}
 	trueBossHP -= 1;
 }

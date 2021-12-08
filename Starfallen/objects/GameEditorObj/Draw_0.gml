@@ -66,7 +66,8 @@ switch(room)
 									 
 									 Get 2000 points to win!
 									 WASD to move!
-									 SPACE to shoot a bomb, c to blow it up
+									 SPACE to shoot a bomb, C to blow it up
+									 Your fellow survivors could only make three!
 									 
 									 >> PRESS ENTER TO PLAY <<
 									 "

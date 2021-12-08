@@ -34,7 +34,8 @@ if (room == GameRoom)
 	{
 		audio_stop_all();
 		audio_play_sound(WinMusic, 1, true);
-		room_goto(Win);	
+		room_goto(Win);
+		//MainShip.alarm[2] = -1;
 	}
 
 	if(lives <= 0)
@@ -42,5 +43,6 @@ if (room == GameRoom)
 		audio_stop_all();
 		audio_play_sound(LoseMusic, 1, true);
 		room_goto(Lose);	
+		//MainShip.alarm[2] = -1;
 	}
 }

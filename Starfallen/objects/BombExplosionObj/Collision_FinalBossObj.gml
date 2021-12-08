@@ -5,7 +5,10 @@
 
 with(other)
 {
-	image_alpha = image_alpha - .1;
+	if(image_alpha > .6)
+	{
+		image_alpha = image_alpha - .1;
+	}
 	trueBossHP -= 10;
 	//instance_create_layer(160, 60,"Instances", KamikazeEnemyObj);
 	//instance_create_layer(570, 60,"Instances", KamikazeEnemyObj);
@@ -15,4 +18,4 @@ with(other)
 	//}
 }
 
-alarm[0] = 30;
+instance_change(BombExpFake, true);
