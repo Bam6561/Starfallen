@@ -36,12 +36,15 @@ if y - 32 < 0
 	y = yprevious;
 }
 
-if (keyboard_check_pressed(vk_space))
+if(bombs > 0)
 {
-  var inst_ID = instance_create_layer(x,y,"Instances",BombObj);
+	if (keyboard_check_pressed(vk_space))
+	{
+	var inst_ID = instance_create_layer(x,y,"Instances",BombObj);
+	bombs--;
   //instance_create_layer(x,y,"Instances_1",ShipBeam);
   //inst_ID.direction = 90;
-	
+	}
 }
 
 if(MainShip.shield == "shield"){

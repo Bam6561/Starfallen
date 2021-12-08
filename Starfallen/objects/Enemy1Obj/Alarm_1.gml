@@ -6,4 +6,4 @@ inst_ID.direction = 270;
 	//show_debug_message("baba bouey");
 	
 	
-alarm[1] = 16;
+alarm[1] = 32;

@@ -11,4 +11,5 @@ alarm[0] = 60;
 hitPain = 0; 
 flash = false;
 
+bombs = 3;
 //hit = false;
