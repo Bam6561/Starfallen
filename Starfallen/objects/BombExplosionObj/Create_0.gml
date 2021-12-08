@@ -4,3 +4,6 @@
 speed = 0;
 direction = irandom_range(0, 359);
 image_angle = irandom_range(0, 359);
+
+//trueBossDamage = 0;
+//miniBossDamage = 0;

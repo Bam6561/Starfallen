@@ -17,7 +17,7 @@ with(other)
 
 }
 else{
-instance_destroy(EnemyBullet);
+instance_destroy(TrueBossBullet2);
 MainShip.shield = "none";
 MainShip.sprite_index = MainShip_Spr;
 }

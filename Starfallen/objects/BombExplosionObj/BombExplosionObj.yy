@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Bomb2",
-    "path": "sprites/Bomb2/Bomb2.yy",
+    "name": "Sprite34",
+    "path": "sprites/Sprite34/Sprite34.yy",
   },
   "solid": false,
   "visible": true,
@@ -26,6 +26,8 @@
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"KamikazeEnemyObj","path":"objects/KamikazeEnemyObj/KamikazeEnemyObj.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"MiniBossObj","path":"objects/MiniBossObj/MiniBossObj.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"FinalBossObj","path":"objects/FinalBossObj/FinalBossObj.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":2,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],

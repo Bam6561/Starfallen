@@ -2,7 +2,7 @@
 // You can write your code in this editor
 
 score += 20;
-instance_destroy();
+//instance_destroy();
 
 with(other)
 {
@@ -13,3 +13,5 @@ with(other)
 		instance_create_layer(x,y,"Instances",DebrisObj);
 	}
 }
+
+alarm[0] = 30;
