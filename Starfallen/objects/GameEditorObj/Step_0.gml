@@ -8,6 +8,7 @@ if(keyboard_check_pressed(vk_enter))
 			audio_stop_all();
 			audio_play_sound(PlayMusic, 1, true);
 			room_goto(GameRoom);
+			timeline_running = true;
 			break;
 		
 		case Win:
