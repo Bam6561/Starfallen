@@ -48,7 +48,7 @@ if(bombs > 0)
 }
 
 if(MainShip.shield == "shield"){
-sprite_index = MainShipShield2_Spr;
+sprite_index = ShipShield;
 }
 
 if(hitPain > 0)

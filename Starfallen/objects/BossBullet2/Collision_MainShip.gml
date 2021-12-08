@@ -19,6 +19,6 @@ with(other)
 else{
 instance_destroy(BossBullet2);
 MainShip.shield = "none";
-MainShip.sprite_index = MainShip_Spr;
+MainShip.sprite_index = Ship;
 }
 

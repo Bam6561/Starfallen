@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "bulletLaser2B",
-    "path": "sprites/bulletLaser2B/bulletLaser2B.yy",
+    "name": "DoubleFire",
+    "path": "sprites/DoubleFire/DoubleFire.yy",
   },
   "solid": false,
   "visible": true,
