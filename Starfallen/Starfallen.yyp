@@ -4,6 +4,7 @@
     {"id":{"name":"bullet12","path":"sprites/bullet12/bullet12.yy",},"order":12,},
     {"id":{"name":"Explode","path":"sounds/Explode/Explode.yy",},"order":1,},
     {"id":{"name":"Bomb2","path":"sprites/Bomb2/Bomb2.yy",},"order":26,},
+    {"id":{"name":"AimedEnemy","path":"sprites/AimedEnemy/AimedEnemy.yy",},"order":35,},
     {"id":{"name":"BulletShoot","path":"sounds/BulletShoot/BulletShoot.yy",},"order":0,},
     {"id":{"name":"ShipBullet_Spr","path":"sprites/ShipBullet_Spr/ShipBullet_Spr.yy",},"order":1,},
     {"id":{"name":"pauseObj","path":"objects/pauseObj/pauseObj.yy",},"order":16,},
