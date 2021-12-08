@@ -1,7 +1,7 @@
 /// @description True Boss Behavior
 // You can write your code in this editor
 
-trueBossHP = 100;
+trueBossHP = 10;
 //direction1 = 0;
 //hsped = 8; 
 
