@@ -7,4 +7,4 @@ inst_ID.direction = point_direction(x, y, MainShip.x, MainShip.y);;
 	//show_debug_message("baba bouey");
 	
 	
-alarm[1] = 16;
+alarm[1] = 32;
