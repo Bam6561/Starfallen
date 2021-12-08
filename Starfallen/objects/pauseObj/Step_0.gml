@@ -9,12 +9,10 @@ if(keyboard_check_pressed(ord("P"))){
 }
 
 if(paused){
-	audio_pause_all();
     instance_deactivate_all(1);
 }else{
     if(sprite_exists(screenShot)){
         sprite_delete(screenShot);
     }
-	audio_resume_all();
     instance_activate_all();
 }
