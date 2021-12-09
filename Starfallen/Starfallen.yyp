@@ -58,7 +58,6 @@
     {"id":{"name":"FinalBossSpr","path":"sprites/FinalBossSpr/FinalBossSpr.yy",},"order":29,},
     {"id":{"name":"LoseMusic","path":"sounds/LoseMusic/LoseMusic.yy",},"order":9,},
     {"id":{"name":"PlayMusic","path":"sounds/PlayMusic/PlayMusic.yy",},"order":5,},
-    {"id":{"name":"Enemy_2","path":"objects/Enemy_2/Enemy_2.yy",},"order":6,},
     {"id":{"name":"bulletLaser1B","path":"sprites/bulletLaser1B/bulletLaser1B.yy",},"order":17,},
     {"id":{"name":"RunnerPath","path":"paths/RunnerPath/RunnerPath.yy",},"order":2,},
     {"id":{"name":"bulletLaser1A","path":"sprites/bulletLaser1A/bulletLaser1A.yy",},"order":18,},
